@@ -60,13 +60,13 @@ This section will cover the primary changes that this mod pack includes. You can
 These mod files need to be applied to both the Server and Client Valheim installations. That means all players on your server should download and install them. There will be some minor issues (day/night cycle differences, etc) if they do not.
 
 **Player Installation:**
-[Click here to download the Client Mod Pack](https://github.com/JeffCraig/Jeefheim/raw/main/Jeefheim%20Mod%20Pack%20-%200.145.6.zip)
+[Click here to download the Client Mod Pack](https://github.com/JeffCraig/Jeefheim/raw/main/Jeefheim%20Mod%20Pack%20-%200.146.11.zip)
 
 Installing is easy. Download the zip files and extract them into your Valheim installation directory.
 For Steam, this is usually **C:\Program Files (x86)\Steam\steamapps\common\Valheim**
 Replace any existing files with those in the Mod Pack zip file.
 
 **Server Installation:**
-[Click here for Server files](https://github.com/JeffCraig/Jeefheim/raw/main/Jeefheim%20Server%20Pack%20-%200.145.6.zip)
+[Click here for Server files](https://github.com/JeffCraig/Jeefheim/raw/main/Jeefheim%20Server%20Pack%20-%200.146.11.zip)
 
 Extract these files into your Valheim server folder.
