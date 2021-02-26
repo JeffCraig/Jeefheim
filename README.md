@@ -56,6 +56,9 @@ This section will cover the primary changes that this mod pack includes. You can
   - Repair with the hammer will now repair nearby structures as well.
   - Players are able to interact with objects while in build mode (open doors, etc)
 
+- Farming Improvements
+  - Bulk harvest and replant crops. H hotkey will replant current crop if you have seeds in your inventory. J will select a new crop to be planted.
+
 ## How to install the Mod Pack
 These mod files need to be applied to both the Server and Client Valheim installations. That means all players on your server should download and install them. There will be some minor issues (day/night cycle differences, etc) if they do not.
 
