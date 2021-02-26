@@ -8,6 +8,8 @@ This section will cover the primary changes that this mod pack includes. You can
 
 - Server Improvements
   - The amount of data that Valheim can transmit by default is very low. Once you reace 5+ players, you might experience a high level of desync and lag. This mod increases those limits to 500kbps per player and allows servers to send/recieve at 2.5mbps
+  - Increased player count. This pack configuration is set to 20 players, but can be increased.
+  - Fixed server player limit in the Steam Server list.
 
 - Improved UI
   - Better formatting for status effects
@@ -29,6 +31,7 @@ This section will cover the primary changes that this mod pack includes. You can
 
 - Kiln and Smelter Improvements
   - Kiln and Smelter will accept larger stacks of resources, reducing the monotony of smelting ores.
+  - Full stacks of items can be placed into Kiln/Smelter/Etc by holding Left Shift and hitting E.
 
 - Improved Sneak
   - Increases base Sneak speed by 33%
@@ -40,6 +43,7 @@ This section will cover the primary changes that this mod pack includes. You can
 
 - Map Improvements
   - Map data can be shared by standing next to other players and pressing F10
+  - Map discovery radius has been increased by 40%
 
 - Food and Rested Status Improvements
   - Food bonuses last for their full duration, instead decaying over time.
@@ -50,6 +54,7 @@ This section will cover the primary changes that this mod pack includes. You can
   - Basic tools no longer consume stamina (including the hammer, hoe and cultivator).
   - Build distance while using the hammer has been increased.
   - Repair with the hammer will now repair nearby structures as well.
+  - Players are able to interact with objects while in build mode (open doors, etc)
 
 ## How to install the Mod Pack
 These mod files need to be applied to both the Server and Client Valheim installations. That means all players on your server should download and install them. There will be some minor issues (day/night cycle differences, etc) if they do not.
