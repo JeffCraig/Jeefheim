@@ -59,6 +59,19 @@ This section will cover the primary changes that this mod pack includes. You can
 - Farming Improvements
   - Bulk harvest and replant crops. H hotkey will replant current crop if you have seeds in your inventory. J will select a new crop to be planted.
 
+## Mod Pack Hotkeys
+There are a number of new hotkeys that these mods add to Valheim:
+
+H = Harvest and replant crops (requires correct seeds in your inventory).
+J = Select which type of crop you want to be replanted.
+
+Left and Right Bracket = modify Dverger Circlet beam
+
+F8 = Freefly mode
+Page Up/Down = Add/remove smoothing to Freefly mode
+
+F10 = Share Map Data
+
 ## How to install the Mod Pack
 These mod files need to be applied to both the Server and Client Valheim installations. That means all players on your server should download and install them. There will be some minor issues (day/night cycle differences, etc) if they do not.
 
