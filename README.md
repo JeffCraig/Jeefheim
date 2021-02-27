@@ -1,3 +1,10 @@
+**After update 0.1468 and 0.146.11, the Data Rate mods that have been improving server lag and desync problems no longer work.**
+
+**Server Data Send Rate has been increased to 128kb/s, but this is still not enough to handle large buildings when multiple players are in the vacinity.**
+
+**Hopefull a fix has ben found and we are able to increase that Send Rate again. Until then, avoid large builds and large groups of players.**
+
+
 # Jeefheim Mod Pack
 This is a collection of Quality of Life improvement mods for Valheim and Valheim servers. The collection of mods included avoid any major changes to core aspects of the game, and only include things that make gameplay a smoother experience.
 
